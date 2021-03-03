@@ -1,4 +1,4 @@
-com/wooseok/inflearn/intellij/Main.java
- com.wooseok.inflearn.intellij.Main
 com/wooseok/inflearn/intellij/Main2.java
  com.wooseok.inflearn.intellij.Main2
+com/wooseok/inflearn/intellij/Main.java
+ com.wooseok.inflearn.intellij.Main

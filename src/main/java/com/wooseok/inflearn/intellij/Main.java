@@ -36,5 +36,10 @@ public class Main {
         //이전 포커스 ctrl+alt+left,right
         //포커스 생성 ctrl 두번후 방향키
         //오류가 난곳으로 이동 f2
+
+        /*검색*/
+        //ctrl+f
+        //교체 ctrl+r
+        //ctrl+shift+f 전체에서 검색
     }
 }
