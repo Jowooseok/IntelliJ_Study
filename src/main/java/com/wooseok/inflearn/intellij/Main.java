@@ -2,7 +2,7 @@ package com.wooseok.inflearn.intellij;
 
 public class Main {
     //psvm
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         //sout
         System.out.println("aaa");
         //실행방법 shift+ctrl+f10
@@ -25,8 +25,16 @@ public class Main {
         //인자값 보기 ctrl+p
         //구현부 보기 ctrl+shift+i
         //Doc ctrl+q
-        Thread.sleep();
+        Thread.sleep(1000);
+
+        //포커스
+        //단어별 이동 ctrl + 이동
+        //이동도 함께하려면 +shift
 
 
+        //포커스 범위 늘리기 ctrl+w , ctrl+shift+w
+        //이전 포커스 ctrl+alt+left,right
+        //포커스 생성 ctrl 두번후 방향키
+        //오류가 난곳으로 이동 f2
     }
 }
