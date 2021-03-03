@@ -22,6 +22,10 @@ public class Main {
         System.out.println("=========");
         //3. 엘리먼트 단위로 html에서 사용 alt+ctrl+shift + left or right
 
+        //인자값 보기 ctrl+p
+        //구현부 보기 ctrl+shift+i
+        //Doc ctrl+q
+        Thread.sleep();
 
 
     }
