@@ -59,3 +59,15 @@
 #Study10. Live Template
 -Live Template 소개 (ctrl+J)
 -Live Template 추가하기
+
+#Study11. 리팩토링 - Extract
+-변수 추출하기 (Ctrl+Alt+V)
+-파라미터 추출하기 (Ctrl + Alt + P)
+-메소드 추출하기 (Ctlr + Alt + M) 하나의 메소드는 하나의 기능만 하는게 좋다
+-이너클래스 추출하기 (F6)
+
+#Study12. 리팩토링 - 기타
+-이름 일괄 변경하기(Shift + f6)
+-타입 일괄 변경하기(Ctrl + Shift + f6)
+-Import 정리하기(Ctrl+Alt+O)
+-코드 자동 정렬하기 (Ctrl+Alt+L)
