@@ -71,3 +71,13 @@
 -타입 일괄 변경하기(Ctrl + Shift + f6)
 -Import 정리하기(Ctrl+Alt+O)
 -코드 자동 정렬하기 (Ctrl+Alt+L)
+
+#Study13. 디버깅
+-Debug 모드로 실행하기 - 즉시 실행 
+-Debug 모드로 실행하기 - 이전 실행 (Shift + f9)
+-Resume (F9) :다음 브레이크 포인트로 넘어감
+-Step Over (F8) : 현재 브레이크에서 다음 한줄로 이동하기
+-Stpe Into (F7) : 현재 브레이크의 다음 메소드로 이동
+-Step Out (Shift + f8) : 현재 메소드의 밖으로 이동
+-Evaluate Expression (Alt + F8) : 브레이크된 상태에서 코드 사용하기
+-Watch (브레이크 이후의 코드 변경 확인하기)
