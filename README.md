@@ -81,3 +81,16 @@
 -Step Out (Shift + f8) : 현재 메소드의 밖으로 이동
 -Evaluate Expression (Alt + F8) : 브레이크된 상태에서 코드 사용하기
 -Watch (브레이크 이후의 코드 변경 확인하기)
+
+#Study14. Git 기본 기능 사용하기
+-Git View On (Alt + 9)
+-Git Option Popup (Alt + `)
+-Git History (Alt + ` =>4)
+-Branch (Alt + ` =>7)
+-Commit (Ctrl + k)
+-Push (Ctlr + shift + k)
+-Pull (Ctrl + Shift + A => git pull)
+
+#Study15. Github 연동하기
+-기존 프로젝트 Github 연동하기 (Ctrl + Shift + A => share github)
+-Github 프로젝트 Clone 받기
