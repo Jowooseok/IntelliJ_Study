@@ -49,3 +49,13 @@
 -Action 검색(shifht+ctrl+a)
 -최근 열었던 파일 목록 보기(ctrl+e)
 -최근 수정한 파일 목록 보기(ctrl+shift+e)
+
+#Study9. 자동완성 (Ctrl + Space)
+-스마트 자동완성 (Ctlr+Shift + Space)
+-스태틱 메소드 자동 완성 (Ctrl+Space 두번)
+-Getter/Setter/생성자 자동완성 (Alt + Insert)
+-Override 메소드 자동완성(Ctrl+I)
+
+#Study10. Live Template
+-Live Template 소개 (ctrl+J)
+-Live Template 추가하기
