@@ -93,4 +93,6 @@
 
 #Study15. Github 연동하기
 -기존 프로젝트 Github 연동하기 (Ctrl + Shift + A => share github)
--Github 프로젝트 Clone 받기
+-Github 프로젝트 Clone 받기 
+
+#Study16. 플러그인
